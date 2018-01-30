@@ -8,7 +8,7 @@ package festival;
 import java.awt.CardLayout;
 
 /**
- *
+ * 
  * @author jaleo
  */
 public class festival_01 extends javax.swing.JFrame {
